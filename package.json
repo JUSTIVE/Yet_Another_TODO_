@@ -1,0 +1,8 @@
+{
+  "name": "YATLWR",
+  "version": "1.0.0",
+  "description": "Yet Another TODOLIST with react and typescript",
+  "main": "index.js",
+  "author": "Minsang kim",
+  "license": "MIT"
+}
