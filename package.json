@@ -1,8 +1,8 @@
 {
-  "name": "YATLWR",
+  "name": "yatdwr",
   "version": "1.0.0",
-  "description": "Yet Another TODOLIST with react and typescript",
   "main": "index.js",
-  "author": "Minsang kim",
+  "repository": "https://github.com/JUSTIVE/Yet_Another_TODO_.git",
+  "author": "Ben <ben399399@naver.com>",
   "license": "MIT"
 }
